@@ -30,14 +30,6 @@ body{
       text-align: center;
       padding: 30px 10px;
     }
-    nav{
-      text-align: center;
-      padding: 10px;
-    }
-    nav a{
-      margin: 0 15px;
-      color: white;
-    }
     .d{
       background: white;
       margin: 20px auto;
